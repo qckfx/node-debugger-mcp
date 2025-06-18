@@ -2,6 +2,10 @@
 
 An MCP server that provides Node.js debugging capabilities with process management for AI agents.
 
+<a href="https://glama.ai/mcp/servers/@qckfx/node-debugger-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@qckfx/node-debugger-mcp/badge" alt="Node.js Debugger Server MCP server" />
+</a>
+
 ## Features
 
 - **Process Management**: Start/stop Node.js processes with debugging enabled
